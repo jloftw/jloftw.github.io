@@ -1,0 +1,34 @@
+div.mainPage {
+    display: flex;
+    flex-direction: column;
+    font-family: Helvetica, Arial, sans-serif;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+H1.mainTitle {
+
+}
+
+p.description {
+
+}
+
+img.mainImage {
+
+}
+
+h3.listTitle {
+
+}
+
+div.gitList {
+
+}
+
+button.mainButton {
+
+}
